@@ -39,7 +39,7 @@ The SQL queries include:
 
 - Total Revenue
 - Average Purchasing Amount
-- Total Number of Transaction
+- Total Number of Transactions
 - Revenue by Product Category
 - Revenue by Gender
 - Monthly Revenue trend
@@ -68,12 +68,13 @@ The dashboard includes:
 
 - Electronics generated highest Revenue
 - Revenue peaked in May and October
-- Customers aged 18-25 contributed to the higest revenue
-- Male and female spent similar amount
+- Customers aged 18-25 contributed to the highest revenue
+- Male and female spent similar amounts
 
 ## Files Included
 
 Customer & Sales Performance Analysis.ipynb
+Customer_&_Sales_Perfomance_Dashboard.pbix
 Proj2_SQL.sql
 Customer & Sales Performance Analysis.pdf
 retail_sales_dataset_cleaned.xlsx
